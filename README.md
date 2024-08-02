@@ -8,7 +8,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 
 ## Technologies & Tools:
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats:
 
