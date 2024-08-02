@@ -1,5 +1,5 @@
 [![Header](readme_header.png "Header")]([https://some-url.dev/](https://www.linkedin.com/in/sanders-tshinyama/))
-## Hi there 👋
+# Hi there 👋
 I'm Sanders, and I'm currently studying computer science and math at Bethany Lutheran College. I aim to become a software engineer after college. I'm passionate about technology, sports, and anything related to the science world. 
 
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
@@ -8,7 +8,9 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 
 ## Technologies & Tools:
 
-### 📈 GitHub Stats:
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+## 📈 GitHub Stats:
 
 <a href="https://github.com/Sanders493/Sanders493">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanders493&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
