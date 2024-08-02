@@ -4,7 +4,24 @@ I'm Sanders, and I'm currently studying computer science and math at Bethany Lut
 
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
 
-### 🌐
+### 🌐 Social Media:
+
+### 📈 GitHub Stats:
+<a href="https://github.com/Sanders493/Sanders493">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanders493&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Sanders493/Sanders493">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanders493&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Sanders493/Sanders493">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanders493&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Sanders493/Sanders493">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanders493&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 <!--
 **Sanders493/Sanders493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
