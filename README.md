@@ -6,7 +6,8 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 
 ### 🌐 Social Media:
 <hr>
-
+### 🔧 Technologies & Tools:
+<hr>
 ### 📈 GitHub Stats:
 <hr>
 <a href="https://github.com/Sanders493/Sanders493">
