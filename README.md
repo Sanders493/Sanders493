@@ -7,6 +7,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 ## 🌐 Social Media:
 
 ## Technologies & Tools:
+
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=coder&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -32,7 +33,9 @@ I'm currently learning about full-stack development and algorithms, but I'm open
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanders493&theme=dracula&hide_border=false" alt="Sanders's GitHub Stats" />
 </a>
 
+## 🏆 GitHub Trophies:
 
+![](https://github-profile-trophy.vercel.app/?username=Sanders493&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
 **Sanders493/Sanders493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
