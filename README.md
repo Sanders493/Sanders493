@@ -7,8 +7,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 ## 🌐 Social Media:
 
 ## Technologies & Tools:
-
-![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visual studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=coder&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats:
 
