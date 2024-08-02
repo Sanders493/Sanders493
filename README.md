@@ -4,6 +4,7 @@ I'm Sanders, and I'm currently studying computer science and math at Bethany Lut
 
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
 
+### 🌐
 <!--
 **Sanders493/Sanders493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
