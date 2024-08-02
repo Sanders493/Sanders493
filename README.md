@@ -1,6 +1,8 @@
 [![Header](readme_header.png "Header")]([https://some-url.dev/](https://www.linkedin.com/in/sanders-tshinyama/))
 ## Hi there 👋
-I'm Sanders, and I'm currently studying computer science and math at Bethany Lutheran College. I aim to become a software engineer after college. I'm passionate about technology, sports, and music. I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
+I'm Sanders, and I'm currently studying computer science and math at Bethany Lutheran College. I aim to become a software engineer after college. I'm passionate about technology, sports, and anything related to the science world. 
+
+I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
 
 <!--
 **Sanders493/Sanders493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
