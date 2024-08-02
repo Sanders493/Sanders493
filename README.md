@@ -4,12 +4,12 @@ I'm Sanders, and I'm currently studying computer science and math at Bethany Lut
 
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
 
-### 🌐 Social Media:
-<hr>
+## 🌐 Social Media:
+
 ## Technologies & Tools:
-<hr>
+
 ### 📈 GitHub Stats:
-<hr>
+
 <a href="https://github.com/Sanders493/Sanders493">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanders493&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
