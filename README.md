@@ -36,7 +36,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 ## 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Sanders493&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
+k
 <!--
 **Sanders493/Sanders493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
