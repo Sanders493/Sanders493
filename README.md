@@ -37,7 +37,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=Sanders493&theme=dracula&no-frame=true&no-bg=true&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=Sanders493&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
