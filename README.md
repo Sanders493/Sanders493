@@ -7,7 +7,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanders_069) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanders-tshinyama/)
-[![GMail](https://img.shields.io/badge/GMail-%230477B5.svg?logo=gmail&logoColor=white)](mailto:stshinyama@blc.edu)
+[![GMail](https://img.shields.io/badge/GMail-%230400B5.svg?logo=gmail&logoColor=white)](mailto:stshinyama@blc.edu)
 
 ## 🔧 Technologies & Tools:
 
