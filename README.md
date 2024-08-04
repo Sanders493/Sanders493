@@ -3,6 +3,7 @@
 I'm Sanders, and I'm currently studying computer science and math at Bethany Lutheran College. I aim to become a software engineer after college. I'm passionate about technology, sports, and anything related to the science world. 
 
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
+Feel free to shoot me an email or connect with me on LinkedIn if you want to collaborate with me on a project.
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanders_069) 
