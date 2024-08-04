@@ -5,6 +5,8 @@ I'm Sanders, and I'm currently studying computer science and math at Bethany Lut
 I'm currently learning about full-stack development and algorithms, but I'm open to diving into any other field for projects or to feed my curiosity.
 
 ## 🌐 Social Media:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanders_069) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanders-tshinyama/)
 
 ## Technologies & Tools:
 
