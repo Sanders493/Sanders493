@@ -8,7 +8,7 @@ I'm currently learning about full-stack development and algorithms, but I'm open
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sanders_069) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanders-tshinyama/)
 
-## Technologies & Tools:
+## 🔧 Technologies & Tools:
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=coder&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
